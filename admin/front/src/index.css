@@ -1,0 +1,28 @@
+body {
+  font-family: "Times New Roman", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  font-size: 1.3em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Fira Sans", source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.chartDialog{
+  width: 50vw;    /* Occupy the 90% of the screen width */
+  max-width: 50vw;
+  min-width: 50vw;
+}
+
+.navbar {
+  font: 1.2em "Fira Sans", serif;
+  margin: 5px;
+  border-radius: 15px;
+}
+.broker-card{
+  margin: 5px;
+}

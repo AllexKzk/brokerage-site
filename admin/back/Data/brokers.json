@@ -1,0 +1,1 @@
+[{"id":"1","name":"SecondBroker","password":"1234","startMoney":50.12,"commission":"5","stocks":[{"stock":"AAPL","bought":448.9,"count":3},{"stock":"AMD","bought":75.49,"count":1}],"super":false},{"id":"2","name":"OneMoreBroker","password":"1234","startMoney":"10","commission":"0","stocks":[{"stock":"AMD","bought":320,"count":2}],"super":false}]

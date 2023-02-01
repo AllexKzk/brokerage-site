@@ -1,0 +1,42 @@
+[
+  {
+    "id": "0",
+    "company":   "Apple Inc",
+    "stock": "AAPL"
+  },
+  {
+    "id": "1",
+    "company":   "Starbucks Inc",
+    "stock": "SBUX"
+  },
+  {
+    "id": "2",
+    "company":   "Microsoft Inc",
+    "stock": "MSFT"
+  },
+  {
+    "id": "3",
+    "company":   "Cisco Systems Inc",
+    "stock": "CSCO"
+  },
+  {
+    "id": "4",
+    "company":   "QUALCOMM Incorporated",
+    "stock": "QCOM"
+  },
+  {
+    "id": "5",
+    "company":   "Amazon.com Inc",
+    "stock": "AMZN"
+  },
+  {
+    "id": "6",
+    "company":   "Tesla Inc",
+    "stock": "TSLA"
+  },
+  {
+    "id": "7",
+    "company":   "Advanced Micro Devices Inc",
+    "stock": "AMD"
+  }
+]
