@@ -16,7 +16,7 @@ Realization of small web-exchange platform.
     ![StockFig](./img-source/3.png)
     ![Settings](./img-source/4.png)
 ## User
-+ Frontend for broker module.
++ Frontend for brokers module.
 + + Vue.js
 + + UI: Bootstrap
 + + Tests: Puppeteer
